@@ -64,11 +64,7 @@ public class MainActivity extends AppCompatActivity {
             else
                 System.out.println("Cinsiyetiniz : " + radioBtnK.getText().toString());
 
-        }/*else
-            System.out.println("Lütfen Bütün Bilgileri Doldurun");*/
-        /*else
-            System.out.println("Lütfen Bütün Bilgileri Doldurun");*/
-        else
+        }else
             System.out.println("Lütfen Bütün Bilgileri Doldurun");
     }
 }
