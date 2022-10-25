@@ -66,8 +66,9 @@ public class MainActivity extends AppCompatActivity {
 
         }/*else
             System.out.println("Lütfen Bütün Bilgileri Doldurun");*/
+        /*else
+            System.out.println("Lütfen Bütün Bilgileri Doldurun");*/
         else
             System.out.println("Lütfen Bütün Bilgileri Doldurun");
-
     }
 }
