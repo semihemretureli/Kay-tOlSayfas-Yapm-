@@ -64,7 +64,10 @@ public class MainActivity extends AppCompatActivity {
             else
                 System.out.println("Cinsiyetiniz : " + radioBtnK.getText().toString());
 
-        }else
-            System.out.println("Girilen Bilgiler Boş Olamaz");
+        }/*else
+            System.out.println("Lütfen Bütün Bilgileri Doldurun");*/
+        else
+            System.out.println("Lütfen Bütün Bilgileri Doldurun");
+
     }
 }
