@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026715108779",
+    "project_id": "kayit-ol-sayfa-yapimi",
+    "storage_bucket": "kayit-ol-sayfa-yapimi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026715108779:android:6d8874af7d3b6265c03eee",
+        "android_client_info": {
+          "package_name": "com.semih.kaytolsayfasyapm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026715108779-fh2hq622b8c7mok1hvep30ce7cp77lvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfXmAFYI6o77P0CSm5v3-yDcKJgS98-Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026715108779-fh2hq622b8c7mok1hvep30ce7cp77lvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
